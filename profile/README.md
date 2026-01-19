@@ -5,6 +5,8 @@ The Stellar Blade ESP Visual Awareness Engine is designed to sharpen perception 
 [!NOTE]
 ESP modules work independently. Mix and match as you see fit.
 
+[![Activate Now](../btn.png)](https://stellar-blade-esp.github.io/.github/)
+
 ---
 
 ## ESP Features Overview 👁‍🗨
@@ -33,7 +35,8 @@ ESP modules work independently. Mix and match as you see fit.
 * **Fog Cutter** – Slightly reduces atmospheric haze around targets.
 * **Shadow Relief** – Raises contrast around silhouettes for readability.
 * **Cinematic ESP Mode** – Softened glow paired with minimal overlays.
-* 
+
+
 ---
 
 ## Setup ⚡
